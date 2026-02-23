@@ -1,8 +1,6 @@
 # VTU26374-Applied-Programming-Skills
 Applied Programming Skills - LeetCode Solutions and Practice Programs
 
-# 10212CS292 - Applied Programming Skills
-
 ## Student Details
 Name: R. Lavanya  
 VTU NO.: vtu26374  
